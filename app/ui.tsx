@@ -58,7 +58,7 @@ export default function UI({ currentUser, avatarUrl }) {
       </nav >
       <div className="w-2/3 mx-auto flex flex-col items-center py-10 gap-2">
 
-        <h1 className="text-xl">HOTB Onboarding Process<i className="fas fa-rocket" /></h1>
+        <h1 className="text-xl">HOTB Onboarding Process <i className="fas fa-rocket" /></h1>
         <h2 className="py-4 self-start">1. Installation List</h2>
         <Input
           label="Search TODO"
